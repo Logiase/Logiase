@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Blog [blog](https://blog.logiase.site) in Chinese
+My [Blog](https://blog.logiase.site) in Chinese
 
 - 🔭 Learning Rust Golang
 - ⚡ Working on Rust Embedded
