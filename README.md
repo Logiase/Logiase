@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 My [Blog](https://blog.logiase.site) in Chinese
 
+Major in Instrument Science
+
 - 🔭 Learning Rust Golang
 - ⚡ Working on Rust Embedded
 - 🤔 Preparing for exams
