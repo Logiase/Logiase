@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 My [Blog](https://blog.logiase.site) in Chinese
 
+Now preparing for reexamine
+
 Major in Instrument Science
 
 - 🔭 Learning Rust Golang
