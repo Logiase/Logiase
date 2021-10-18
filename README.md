@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 My [Blog](https://blog.logiase.site) in Chinese
 
-Now preparing for reexamine, prospective postgraduate student.
-
-Major in Instrument Science
+now postgraduate major in Instrument Science, and prospective doctor in Aerospace Science.
 
 - 🔭 Learning Rust Golang
 - ⚡ Working on Rust Embedded
