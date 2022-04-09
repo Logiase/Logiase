@@ -23,4 +23,4 @@ now postgraduate major in Instrument Science, and prospective doctor in Aerospac
 - ⚡ Working on Rust Embedded
 - 🤔 Preparing for exams
 
-![Logiase's github stats](https://github-readme-stats.vercel.app/api?username=Logiase&show_icons=true)
+![Logiase's github stats](https://github-readme-stats.vercel.app/api?username=Logiase&show_icons=true&count_private=true)
