@@ -20,6 +20,12 @@ HIT(Harbin Institue of Technology) bachelor and currently studying for a master'
 - Learning FPGA
 - Doing something about deep-learning
 
+## What Im doing now?
+
+- Preparing for PhD admission (hassle)
+- Playing [Zephyr](https://www.zephyrproject.org/)
+- Some personal interest projects
+
 ## Contact me
 
 - Blog (WIP)
