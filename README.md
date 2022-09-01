@@ -1,26 +1,27 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**Logiase/Logiase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Logiase&show_icons=true&hide_title=false" />
 
-Here are some ideas to get you started:
+HIT(Harbin Institue of Technology) bachelor and currently studying for a master's degree.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
 
-My [Blog](https://blog.logiase.site) in Chinese
+- C / C++
+- Rust
+- Go
+- Python
+- Kotlin
+- ~~Latex~~
 
-now postgraduate major in Instrument Science, and prospective doctor in Aerospace Science.
+## Skills
 
-- 🔭 Learning Rust Golang
-- ⚡ Working on Rust Embedded
-- 🤔 Preparing for exams
+- FullStack (hate js)
+- Embedded (both bare metal and linux)
+- Learning FPGA
+- Doing something about deep-learning
 
-![Logiase's github stats](https://github-readme-stats.vercel.app/api?username=Logiase&show_icons=true&count_private=true)
+## Contact me
+
+- Blog (WIP)
+- Email [logiase.syx@gmail.com](mailto:logiase.syx@gmail.com)
+- Telegram [@Logiase](https://t.me/Logiase)
