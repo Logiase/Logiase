@@ -11,23 +11,21 @@ HIT(Harbin Institue of Technology) bachelor and currently studying for a master'
 - Go
 - Python
 - Kotlin
+- Verilog
 - ~~Latex~~
 
 ## Skills
 
-- FullStack (hate js)
-- Embedded (both bare metal and linux)
-- Learning FPGA
-- Doing something about deep-learning
+- Full Stack
+- Embedded (baremetal, embedded linux, FPGA)
+- Deep leraning
 
 ## What Im doing now?
 
-- Preparing for PhD admission (hassle)
-- Playing [Zephyr](https://www.zephyrproject.org/)
-- Some personal interest projects
+- [Zephyr](https://www.zephyrproject.org/) is Fun
+- Boring graduation project
 
 ## Contact me
 
-- Blog (WIP)
 - Email [logiase.syx@gmail.com](mailto:logiase.syx@gmail.com)
 - Telegram [@Logiase](https://t.me/Logiase)
