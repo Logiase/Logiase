@@ -2,7 +2,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Logiase&show_icons=true&hide_title=false" />
 
-HIT(Harbin Institue of Technology) bachelor and currently studying for a master's degree.
+HIT(Harbin Institue of Technology) Master graduates.
+Now work for NXP
 
 ## Languages
 
@@ -23,9 +24,9 @@ HIT(Harbin Institue of Technology) bachelor and currently studying for a master'
 ## What Im doing now?
 
 - [Zephyr](https://www.zephyrproject.org/) is Fun
-- Boring graduation project
+- Working
 
 ## Contact me
 
-- Email [logiase.syx@gmail.com](mailto:logiase.syx@gmail.com)
+- Email [logiase.song@gmail.com](mailto:logiase.song@gmail.com)
 - Telegram [@Logiase](https://t.me/Logiase)
